@@ -5,6 +5,12 @@ Hi 👋 My name is Thando
 Software Dev Student
 --------------------
 
+My goal is to use design and technology to deliver experiences that are both seamless and impactful, making a meaningful difference in the world through my work.<br> 
+
+### 🚀 Currently focusing on: 
+* Learning the fundamentals of programming
+* Exploring UX principles
+--------------------
 * 🌍  I'm based in Johannesburg, South Africa
 * ⚡  Fun fact: I love cars
 
