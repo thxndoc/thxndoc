@@ -1,5 +1,5 @@
 ![Header](https://github.com/thxndoc/thxndoc/blob/main/readme-banner-sm.png)
-Hi 👋 My name is Thando
+Hi 👋🏽 My name is Thando
 =======================
 
 Software Dev Student
