@@ -7,11 +7,11 @@ Software Dev Student
 
 I'm a software development student with an interest in UX design and a mission to create technology that enhances human experiences. My goal is to use design and technology to deliver experiences that are both seamless and impactful, making a meaningful difference in the world through my work.<br> 
 
-### 🚀 Currently focusing on: 
+### 🚀 Currently focusing on
 * Learning the fundamentals of programming
 * Exploring UX principles
 * Problem-solving through technology
-### More About Me:
+### More about me
 * 🌍  I'm based in Johannesburg, South Africa
 * ⚡  Fun facts: I'm a qualified jewellery designer and I love cars
 
@@ -23,7 +23,7 @@ I'm a software development student with an interest in UX design and a mission t
 </p>
 
 
-### Socials
+### Connect with me
 
 <p align="left"> <a href="https://www.github.com/thxndoc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/thando-cibi-47b066180/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
