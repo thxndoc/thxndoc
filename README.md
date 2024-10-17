@@ -1,4 +1,4 @@
-![Header](https://github.com/thxndoc/thxndoc/blob/main/readme-banner-sm-1.png)
+![Header](https://github.com/thxndoc/thxndoc/blob/main/banner-light.png)
 Hi 👋🏽 My name is Thando
 =======================
 
