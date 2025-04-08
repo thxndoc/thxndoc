@@ -2,13 +2,13 @@
 Hi 👋🏽 My name is Thando
 =======================
 
-Software Dev Student
+System Development Student
 --------------------
 
-I'm a software development student with an interest in roles that focus on improving and optimizing systems or experiences. My goal is to use design and technology to deliver experiences that are both seamless and impactful, making a meaningful difference in the world through my work.<br> 
+I'm a system development student with an interest in roles that focus on improving and optimizing systems or experiences. My goal is to use design and technology to deliver experiences that are both seamless and impactful, making a meaningful difference in the world through my work.<br> 
 
 ### 🚀 Currently focusing on
-* Learning the fundamentals of programming
+* Learning the fundamentals of IT
 * Exploring UX principles
 * Problem-solving through technology
 ### More about me
